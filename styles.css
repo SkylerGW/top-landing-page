@@ -41,6 +41,14 @@ body {
     font-weight: 700;
 }
 
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+}
+
 .hero {
     height: 300px;
     display: flex;
