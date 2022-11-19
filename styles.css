@@ -3,7 +3,6 @@
     font-family: roboto, sans-serif;
     margin: 0;
     padding: 0;
-    border: solid 1px;
 }
 
 body {
@@ -177,4 +176,9 @@ a:visited {
 
 .footer {
     height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(129, 171, 57, 0.5);
+    font-size: 24px;
 }
