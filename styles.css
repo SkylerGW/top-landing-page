@@ -78,9 +78,25 @@ body {
     width: 150px;
 }
 
-.quote {
+.quote-section {
     height: 300px;
     padding: 24px 0;
+    color: azure;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.quote {
+    font-size: 32px;
+    font-weight: 700;
+    width: 50%;
+}
+
+.quote-by{
+    font-size: 32px;
+    margin-left: -25%;
 }
 
 .modal-container {
