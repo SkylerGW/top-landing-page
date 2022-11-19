@@ -1,3 +1,17 @@
 * {
+    box-sizing: border-box;
     font-family: roboto, sans-serif;
+}
+
+body {
+    background-color: white;
+    padding: 0 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.body {
+    background-image: url(./images/pexels-michael-block-3225517.jpg);    
+    background-size: cover;
+    width: 90%;
 }
