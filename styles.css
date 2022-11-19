@@ -40,6 +40,14 @@ body {
     justify-content: center;
 }
 
+.hero-right {
+    height: 100%;
+    width: 20%;
+    background-image: url(./images/pexels-vlad-bagacian-1314186.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+
 .info-section {
     height: 250px;
     display: flex;
