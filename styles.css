@@ -40,12 +40,21 @@ body {
     justify-content: center;
 }
 
+.hero-left {
+    height: 100%;
+    width: 30%;
+    background-color: rgba(129, 171, 57, 0.5);
+    color: white;
+    border-radius: 16px 0 0 16px;
+}
+
 .hero-right {
     height: 100%;
-    width: 20%;
+    width: 30%;
     background-image: url(./images/pexels-vlad-bagacian-1314186.jpg);
     background-size: cover;
     background-position: center center;
+    border-radius: 0 16px 16px 0;
 }
 
 .info-section {
