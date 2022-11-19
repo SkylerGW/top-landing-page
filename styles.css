@@ -31,7 +31,9 @@ body {
 .header ul {
     display: flex;
     list-style: none;
-    gap: 16px;
+    gap: 32px;
+    font-size: 24px;
+    font-weight: 700;
 }
 
 .hero {
