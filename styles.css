@@ -28,6 +28,11 @@ body {
     padding: 0 32px;
 }
 
+.header-logo {
+    height: 50px;
+    width: 50px;
+}
+
 .header ul {
     display: flex;
     list-style: none;
