@@ -29,8 +29,8 @@ body {
 }
 
 .header-logo {
-    height: 50px;
-    width: 50px;
+    height: 64px;
+    width: 64px;
 }
 
 .header ul {
@@ -54,6 +54,25 @@ a:visited {
     display: flex;
     justify-content: center;
     padding: 24px 0;
+}
+
+.hero h1 {
+    padding-left: 6px;
+    margin-bottom: 6px;
+}
+
+.hero p {
+    font-size: 22px;
+    padding-left: 6px;
+    margin-bottom: 6px;
+}
+
+.hero button {
+    height: 3em;
+    width: 7em;
+    border-radius: 10px 10px;
+    margin: 9px 0 6px 6px;
+    font-weight: 700;
 }
 
 .hero-left {
